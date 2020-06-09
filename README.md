@@ -21,3 +21,6 @@ No logins or online registration required! Manage your business privately anytim
 - Mark your order as different status for easy tracking
 - View all profit in a glance
 - Close order to keep as archive
+
+# Support
+- Problems with the KalKa? Plesae kindly send your feedback to lablambworks@gmail.com
